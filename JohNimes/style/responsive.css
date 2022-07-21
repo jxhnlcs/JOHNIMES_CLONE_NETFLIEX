@@ -1,0 +1,38 @@
+@media screen and (max-width:500px){
+    .nav-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao1{
+        margin-top: 5px;
+        width: 250px;
+    }
+
+    .botao2{
+        margin-top: 5px;
+        width: 250px;
+        margin-bottom: 100px;
+    }
+
+    .titulo{
+        margin-top: 300px;
+        font-size: 35px;
+    }
+
+    .anime-principal{
+        background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/img/minicapa.jpg");;
+    }
+
+    .descricao{
+        font-size: 16px;
+        width: 70%;
+    }
+
+    .escolhas{
+        font-size: 10px;
+
+    }
+
+
+}
