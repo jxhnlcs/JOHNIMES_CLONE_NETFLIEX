@@ -1,2 +1,19 @@
-# JOHNIMES_CLONE_NETFLIX
-Site de animes inspirado no layout da netflix usando HTML, CSS E JS. Usando jQuery, Owl, Media Queries e fontawesome
+# Clone Netflix
+Challenge proposed in the BootCamp JS Game Developer by dio.me
+
+Link to access: https://johnimes-clone-netflix-5j97.vercel.app
+
+
+# Technologies
+
+Technologies used to develop:
+
+• HTML
+
+• CSS
+
+• JavaScript
+
+• jQuery
+
+• Owl Carousel
